@@ -39,4 +39,11 @@
   border: 2px solid #747bff;
 }
 
+.logo-image {
+  margin-top: -25px;
+  width: 100px;
+  height: 100px;
+  filter: drop-shadow(16px 16px 20px blue);
+}
+
 /*# sourceMappingURL=App.css.map */
