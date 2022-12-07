@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.Container {
+  border: 2px solid #747bff;
+  padding: 20px;
+  width: 500px;
+  height: 500px;
+}
+
+.todo-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  border: 2px solid #747bff;
+  margin: 5px;
+  width: 400px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.todo_state {
+  margin: 10px;
+}
+
+.text {
+  margin: 10px;
+  width: 350px;
+  height: 30px;
+  border: 2px solid #747bff;
+}
+
+/*# sourceMappingURL=App.css.map */
